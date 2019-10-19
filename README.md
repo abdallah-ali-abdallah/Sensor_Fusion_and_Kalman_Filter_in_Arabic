@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+</head>
 <body>
+<div dir="rtl">
 
 <div style="direction: rtl;">
 <div style="font-size: 15px;">
@@ -24,5 +28,6 @@
 </div>
 </div>
 
-</html>
+</div>
 </body>
+</html>
